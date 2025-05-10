@@ -45,7 +45,7 @@ Navigate to the project directory:
 Install the required dependencies:
 Run the Streamlit app:
 Open the app in your browser:
-Local URL: http://localhost:8501
+Local URL: http://localhost:8501 or clone the repository and run "streamlit run app.py" 
 Network URL: Provided in the terminal output.
 
 
