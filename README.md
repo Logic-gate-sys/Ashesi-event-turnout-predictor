@@ -56,13 +56,9 @@ Project/
 │   ├── lr_pipeline.joblib     # Linear Regression model
 │   ├── log_pipeline.joblib    # Logistic Regression model
 │
-├── data/
+    ├── data/
 │   ├── university_event_turnout_data.csv  # Dataset for Linear Regression
 │   ├── student_event_attendance.csv       # Dataset for Logistic Regression
-│
-├── work/
-│   ├── preprocessing/
-│   │   ├── data_cleaning.py   # Data preprocessing script
 │
 └── requirements.txt           # Python dependencies
 
